@@ -1,0 +1,152 @@
+a.mini-header{
+    color: grey;
+    font-family: 'open sans','tahoma',sans-serif;
+    margin-left: 5px;
+    margin-right: 15px;
+    font-size: 12px;
+    
+}
+a:hover.mini-header{
+    color: green;
+    text-decoration: none;
+}
+
+.size-icon{
+    color: grey;
+    height: 15px;
+    margin-left: -15px;
+}
+
+.margin-body{
+    margin: 10px 15px;
+}
+
+.mini-header-right{
+    display: flex;
+    margin: 0 -20px 0 0;
+    justify-content: space-around;
+    width: 522px;
+}
+
+.logo-tokopedia{
+    margin: 10px 30px;
+}
+
+.search{
+    opacity: 2;
+    width: 63%;
+    border: solid 1px grey;
+    border-radius: 8px;
+}
+
+.margin-download{
+    margin-left: 10px;
+    margin-right: 80px;
+}
+
+.margin-header{
+    padding: 10px;
+    margin-top: -5px;
+}
+
+.margin-mini-header{
+    display: flex;
+    height: 20px;
+    padding: 0 30px;
+    left: 0px;
+    right: 0px;
+    top: 3px;
+    background-color: #f3f4f5;
+}
+
+.logo-cart{
+    height: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.button-masuk{
+    height: 32px;
+    padding: 0px 16px;
+    font-weight: 800;
+    border-radius: 8px;
+    font-size: 12px;
+    background: white;
+    color: rgb(0, 194, 0);
+    cursor: pointer;
+    border: 1px solid rgb(0, 194, 0);
+    margin-left: 20px;
+}
+
+.button-daftar{
+    height: 32px;
+    padding: 0px 16px;
+    font-weight: 800;
+    border-radius: 8px;
+    font-size: 12px;
+    background: rgb(0, 160, 0);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: 1px solid rgb(0, 194, 0);
+    margin-left: 20px;
+}
+
+.banner{
+    border-radius: 10px;
+}
+
+.content{
+    padding: 20px 30px 20px 30px; 
+    width: 90%;
+  }
+
+div.content{
+    border: 1px;
+    opacity: 2;
+    border-style: ridge;
+    border-radius: 5%;
+    border-color: #8080801a;
+    font-family: 'open sans','tahoma',sans-serif;
+}
+
+  .component{
+    padding-left: 270px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    color: grey;
+    border: none;
+    font-size: 12px;
+    font-family: 'open sans','tahoma',sans-serif;
+  }
+
+
+.button-content{
+    height: 32px;
+    font-weight: 800;
+    font-size: 14px;
+    background: white;
+    color: rgb(0, 194, 0);
+    cursor: pointer;
+}
+
+.nomor-telp{
+    width: 90%;
+    height: 32px;
+    border-radius: 8px;
+    border: solid 1px var(--N75,#cfcfcf);
+    margin-top: 5px;
+}
+
+.button-beli{
+    width: 100px;
+    height: 32px;
+    padding: 0px 16px;
+    font-weight: 800;
+    border-radius: 8px;
+    font-size: 12px;
+    background: #6C727C;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #6C727C;
+}
